@@ -79,9 +79,9 @@ We prioritized **Recall** over Accuracy. In safety systems, missing an incident 
 **[Click Here to Open Notebook]** (INSERT_YOUR_COLAB_LINK_HERE)
 
 ### Option 2: Local Installation
-1.  Clone the repo:
+1.  1.  Clone the repo:
     ```bash
-    git clone [https://github.com/your-username/traffic-congestion-ai.git](https://github.com/your-username/traffic-congestion-ai.git)
+    git clone [https://github.com/DevanshJamodkar/AI-Based-Traffic-Congestion-Incident-Detection-Project.git](https://github.com/DevanshJamodkar/AI-Based-Traffic-Congestion-Incident-Detection-Project.git)
     ```
 2.  Install dependencies:
     ```bash
@@ -91,7 +91,3 @@ We prioritized **Recall** over Accuracy. In safety systems, missing an incident 
     ```bash
     jupyter notebook Traffic_Congestion_Project.ipynb
     ```
-
----
-
-## 📂 Repository Structure
