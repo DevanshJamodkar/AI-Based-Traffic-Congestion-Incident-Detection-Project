@@ -1,0 +1,16 @@
+
+VIDEO PRESENTATION SCRIPT
+---------------------------
+INTRO: "Hello, I’m Devansh Jamodkar. I’m presenting my capstone project – AI-Based Traffic Congestion and Incident Detection using Aerial-Derived Features. This project focuses on the decision layer of an Intelligent Transportation System, where structured traffic telemetry is converted into real-time actions."
+
+PROBLEM STATEMENT: "Urban roads suffer from two major issues – regular congestion and sudden incidents like accidents or breakdowns. The challenge is that high density does not always mean congestion, and incidents can happen even in sparse traffic. My goal was to build a model that understands this context and predicts risk for every road tile."
+
+DATA & FEATURES: "I used a tabular dataset extracted from aerial imagery containing features such as vehicle density, average speed, queue length, lane occupancy, optical flow magnitude, and time-of-day normalization. Among these, average vehicle speed emerged as the strongest indicator, while density alone was insufficient without contextual features."
+
+MODEL & RESULTS: "I implemented a Random Forest classifier with proper train-test validation. The model achieved an ROC-AUC of 0.93 with strong precision and recall. I evaluated performance using precision, recall, F1-score, and ROC-AUC because accuracy alone is unreliable for imbalanced traffic events. I also generated spatial heatmaps that visualize high-risk zones across aggregated road tiles, making the outputs directly usable by traffic authorities."
+
+REAL-WORLD APPLICATION: "Based on predictions, the system can: trigger adaptive signal control, dispatch emergency teams when speed drops with long queues, and push route diversions through variable message signs."
+
+LIMITATIONS & FUTURE WORK: "Currently the dataset lacks GPS coordinates and weather context. Future improvements include temporal fusion with historical patterns and weather-aware thresholds for more robust deployment."
+
+CLOSING: "This project demonstrates how AI can support smarter and safer mobility by transforming aerial telemetry into actionable traffic decisions at the feature and decision layer. Thank you."
