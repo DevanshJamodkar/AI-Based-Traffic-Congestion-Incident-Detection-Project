@@ -79,7 +79,7 @@ We prioritized **Recall** over Accuracy. In safety systems, missing an incident 
 ### Option 2: Local Installation
 1.  1.  Clone the repo:
     ```bash
-    git clone [https://github.com/DevanshJamodkar/AI-Based-Traffic-Congestion-Incident-Detection-Project.git](https://github.com/DevanshJamodkar/AI-Based-Traffic-Congestion-Incident-Detection-Project.git)
+    git clone https://github.com/DevanshJamodkar/AI-Based-Traffic-Congestion-Incident-Detection-Project.git
     ```
 2.  Install dependencies:
     ```bash
