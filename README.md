@@ -75,7 +75,6 @@ We prioritized **Recall** over Accuracy. In safety systems, missing an incident 
 ## 🚀 How to Run
 
 ### Option 1: Google Colab (Recommended)
-**[Click Here to Open Notebook]** (INSERT_YOUR_COLAB_LINK_HERE)
 
 ### Option 2: Local Installation
 1.  1.  Clone the repo:
