@@ -89,3 +89,11 @@ We prioritized **Recall** over Accuracy. In safety systems, missing an incident 
     ```bash
     jupyter notebook Traffic_Congestion_Project.ipynb
     ```
+---
+
+## 🤝 Acknowledgments
+* **IIT Hyderabad TiHAN** for domain expertise in Autonomous Navigation.
+* **Masai School** for the Machine Learning curriculum.
+
+---
+*Created by Devansh Jamodkar*
