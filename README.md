@@ -62,7 +62,6 @@ We prioritized **Recall** over Accuracy. In safety systems, missing an incident 
 ### Spatial Congestion Heatmap
 *The model's predictions are aggregated to visualize congestion hotspots across the monitored zone.*
 
-![Spatial Heatmap](assets/spatial_heatmap.png)
 *(Note: Red tiles indicate high probability of congestion/incidents)*
 
 ### Feature Importance
